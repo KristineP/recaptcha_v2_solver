@@ -1,0 +1,14 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+deepspeech==0.9.3
+ffmpeg==1.4
+ffmpy==0.3.0
+idna==3.3
+numpy==1.17.0
+pydub==0.25.1
+PySocks==1.7.1
+requests==2.27.1
+selenium==3.141.0
+SpeechRecognition==3.8.1
+stem==1.8.0
+urllib3==1.26.6

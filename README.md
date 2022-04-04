@@ -20,6 +20,8 @@ If you have a great idea, do let me know!<br>
 python recaptcha_solver.py<br>
 
 ## Updates
+[04 April 22] update code and dependencies for mac<br> 
+[04 April 22] add sleep functions and 'play' click to make the request more human-like<br>
 [23 Sept 21] Auto detection of recaptcha. With this functionality, this script may work for other pages. <br>
 [28 Nov  21] Using Tor connection to randomise your IP address. <br>
 This technique is used to bypass "Your Computer or Network May Be Sending Automated Queries."<br> 
